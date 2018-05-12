@@ -1,0 +1,28 @@
+_repo: The-Making-of-the-New-Testament_39288
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bacon, Benjamin Wisner
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '39945'
+    url: http://www.gutenberg.org/2009/agents/39945
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Wisner_Bacon
+description: ''
+gutenberg_issued: '2012-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 50
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. New Testament -- Introductions'
+title: The Making of the New Testament
+url: http://www.gutenberg.org/ebooks/39288
